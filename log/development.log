@@ -1,0 +1,72 @@
+
+
+Started GET "/assets/rails.png" for 192.168.0.117 at 2013-02-04 20:29:50 +0800
+Connecting to database specified by database.yml
+Served asset /rails.png - 200 OK (4ms)
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+
+
+Started GET "/assets/rails.png" for 192.168.0.117 at 2013-02-07 08:01:04 +0800
+Connecting to database specified by database.yml
+Served asset /rails.png - 200 OK (29ms)
+
+
+Started GET "/graphs/view" for 192.168.0.117 at 2013-02-07 08:01:14 +0800
+Processing by GraphsController#view as HTML
+  Rendered graphs/view.html.erb within layouts/application (2.2ms)
+Compiled graphs.css  (51ms)  (pid 16690)
+Compiled application.css  (80ms)  (pid 16690)
+Compiled jquery.js  (2ms)  (pid 16690)
+Compiled jquery_ujs.js  (0ms)  (pid 16690)
+Compiled graphs.js  (451ms)  (pid 16690)
+Compiled application.js  (510ms)  (pid 16690)
+Completed 200 OK in 699ms (Views: 698.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.0.117 at 2013-02-07 08:01:15 +0800
+Served asset /application.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.0.117 at 2013-02-07 08:01:15 +0800
+Served asset /jquery.js - 200 OK (6ms)
+
+
+Started GET "/assets/graphs.css?body=1" for 192.168.0.117 at 2013-02-07 08:01:16 +0800
+Served asset /graphs.css - 200 OK (2ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.0.117 at 2013-02-07 08:01:16 +0800
+Served asset /jquery_ujs.js - 200 OK (2ms)
+
+
+Started GET "/assets/graphs.js?body=1" for 192.168.0.117 at 2013-02-07 08:01:16 +0800
+Served asset /graphs.js - 200 OK (27ms)
+
+
+Started GET "/assets/application.js?body=1" for 192.168.0.117 at 2013-02-07 08:01:16 +0800
+Served asset /application.js - 200 OK (11ms)
+Connecting to database specified by database.yml
